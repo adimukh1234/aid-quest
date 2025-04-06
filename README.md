@@ -72,7 +72,7 @@ During development, I overcame several technical challenges:
 
 ## 🔗 Live Demo
 
-Experience the application: [Quest for Impact Demo](https://quest-for-impact.yourdomain.com)
+Experience the application: [Quest for Impact Demo](https://aid-quest.vercel.app)
 
 ## 📜 License
 
